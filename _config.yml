@@ -105,7 +105,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-123881769-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -122,7 +122,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "cemyusufaydodu"
+ disqus: "cemysf"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
