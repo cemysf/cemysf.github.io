@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Cem Yusuf Aydoğdu
+title: Cem Yusuf Aydogdu
 
 # Short description of your site
 description: Personal Website
@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Cem Yusuf Aydoğdu
+  name: Cem Yusuf Aydogdu
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -79,7 +79,7 @@ social-network-links:
 #  google-plus: +DeanAttali
   linkedin: cem-yusuf-aydogdu
 #  xing: yourname
-  stackoverflow: "3525373/cya"
+  stackoverflow: 3525373/cya
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
