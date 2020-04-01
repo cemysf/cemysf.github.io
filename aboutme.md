@@ -3,6 +3,7 @@ layout: page
 title: About me
 ---
 
-Student - M.Sc. Informatics - TU München
+I am an -almost graduate- M.Sc. Informatics student at TU München.
 
-For more info, check out my social profiles.
+
+For more info, check out my cv or social profiles.
