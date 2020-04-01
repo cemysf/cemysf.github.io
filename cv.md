@@ -25,7 +25,7 @@ still in progress, more to come soon..
 
 This was an **IoT** project on **python**. Purpose of this project was to detect occupancy of cars in parking spots using a **radar sensor**. We worked as a team using **agile** approach.  I was responsible for development and deployment of the project, as well as research of possible improvements and extraction of data analytics. We used the **balena** fleet management system for **Raspberry Pi** and **balenaFin** devices, as well as **docker** for deployment. 
 
-![parkhere]({{ 'img/cv/parkhere.jpg' | relative_url }})
+![park]({{ 'img/cv/park.jpg' | relative_url }})
 
 
 ---
@@ -64,7 +64,7 @@ normal and compared its performance against conventional machine learning techni
 
 
 The dataset is obtained from [2015 Ischemic Stroke Lesion Segmentation (ISLES)
-Challenge](http://www.isles-challenge.org/ISLES2015/).  Also, we have published this study as an [academic paper](http://www.isles-challenge.org/ISLES2015/) at IEEE.
+Challenge](http://www.isles-challenge.org/ISLES2015/).  Also, we have published this study as an [academic paper](https://ieeexplore.ieee.org/document/7960524) at IEEE.
 
 
 
