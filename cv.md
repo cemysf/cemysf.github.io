@@ -13,11 +13,10 @@ You probably have my CV already since you are reading this. Here are some detail
 ### Deep learning based people counting using 60-GHz FMCW radar sensor 
 #### M.Sc. Graduation Project
 
-This project is about detecting number of persons in a room environment using an FMCW **radar sensor**. Main goal is to apply novel **deep learning** techniques for better **signal processing** pipelines.
-
-
-{: .box-warning}
-still in progress, more to come soon..
+This project is about detecting number of persons on indoor scenarios using an FMCW **radar sensor**. I had a range of responsibilites, such as:
+- Implementing **signal processing** as radar data processing 
+- Applying novel **deep learning** architectures and loss functions for the problem
+- Exploring/implementing novel **sensor fusion** architectures with radar and camera data
 
 ---
 
