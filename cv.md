@@ -18,6 +18,8 @@ This project is about detecting number of persons on indoor scenarios using an F
 - Applying novel **deep learning** architectures and loss functions for the problem
 - Exploring/implementing novel **sensor fusion** architectures with radar and camera data
 
+We have also [published](https://ieeexplore.ieee.org/document/9114871) this work on 2020 IEEE Radar Conference.
+
 ---
 
 ### Parking Spot Occupancy Detection 
