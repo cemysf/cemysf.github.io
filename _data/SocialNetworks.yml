@@ -72,6 +72,11 @@ telephone:
   urlTemplate: "tel:{value}"
   icon: "fas fa-phone"
 
+rarible:
+  name: "Rarible"
+  urlTemplate: "https://rarible.com/{value}"
+  icon: "fas fa-palette"
+
 rss:
   name: "RSS"
   icon: "fas fa-rss"

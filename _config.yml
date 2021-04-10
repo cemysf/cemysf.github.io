@@ -21,6 +21,7 @@ description: Personal Website
 navbar-links:
   Home: "index"
   CV: "cv"
+  Artworks: "artworks"
   About Me: "aboutme"
   Resources:
     - This repo: "https://github.com/cemysf/cemysf.github.io"
@@ -79,6 +80,7 @@ social-network-links:
   linkedin: cem-yusuf-aydogdu
 #  xing: yourname
   stackoverflow: 3525373/cya
+  rarible: ebruv2
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
