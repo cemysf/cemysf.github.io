@@ -1,2 +1,2 @@
 #/bin/bash
-hugo server -p 8080
+hugo server -p 8080 --debug

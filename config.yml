@@ -17,16 +17,6 @@ minify:
   disableXML: true
   minifyOutput: true
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # is necessary
-  page:
-    - HTML
-    - RSS
-    - JSON # is necessary
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Cem Yusuf Aydoğdu - Personal Website
@@ -43,7 +33,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -95,13 +85,13 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com/users/3525373/cya"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -122,7 +112,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content", "tags"]
+    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
     - identifier: about
@@ -154,3 +144,9 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
