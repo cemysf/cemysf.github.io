@@ -18,7 +18,7 @@ Hello, my name is Cem. I am a full-stack web developer, living and working in Mu
 
 -- 
 
-Check out the theme of this website [here](https://github.com/adityatelange/hugo-PaperMod)
+Check out the repo of this website [here](https://github.com/cemysf/cemysf.github.io)
 
 --
 
