@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cem Yusuf Aydogdu</title>
+    <title>Cem Yusuf Aydogdu | Personal Website</title>
     <link>https://cemysf.github.io/</link>
-    <description>Recent content on Cem Yusuf Aydogdu</description>
+    <description>Recent content on Cem Yusuf Aydogdu | Personal Website</description>
     <image>
       <url>https://cemysf.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://cemysf.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -29,7 +29,7 @@ Problem Think about the kitchen of a well-known fastfood restaurant chain. There
       <guid>https://cemysf.github.io/about/</guid>
       <description>Hello, my name is Cem. I am a full-stack web developer, living and working in Munich at the moment 🍻
  Check out the repo of this website here
- For more info check out my profiles:             The original context of this website is licensed under Creative Commons Attribution 4.0 International License, unless otherwise noted.</description>
+ For more info check out my profiles:             The original content of this website is licensed under Creative Commons Attribution 4.0 International License, unless otherwise noted.</description>
     </item>
     
     
