@@ -1,5 +1,5 @@
 baseURL: "https://cemysf.github.io"
-title: Cem Yusuf Aydogdu
+title: Cem Yusuf Aydogdu | Personal Website
 paginate: 5
 theme: ["hugo-video", "PaperMod"]
 

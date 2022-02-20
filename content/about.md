@@ -28,6 +28,6 @@ For more info check out my profiles:
 ---
 
 
-The original context of this website is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), unless otherwise noted. 
+The original content of this website is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), unless otherwise noted.
 
 ![license](https://i.creativecommons.org/l/by/4.0/88x31.png)
