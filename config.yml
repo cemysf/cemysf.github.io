@@ -1,7 +1,7 @@
-baseURL: "/"
+baseURL: "https://cemysf.github.io"
 title: Cem Yusuf Aydoğdu
 paginate: 5
-theme: ["hugo-video","PaperMod"]
+theme: ["hugo-video", "PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -38,8 +38,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
-
 
   ShowReadingTime: true
   ShowShareButtons: true
