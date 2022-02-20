@@ -1,5 +1,5 @@
 baseURL: "https://cemysf.github.io"
-title: Cem Yusuf Aydoğdu
+title: Cem Yusuf Aydogdu
 paginate: 5
 theme: ["hugo-video", "PaperMod"]
 
@@ -19,8 +19,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Cem Yusuf Aydoğdu - Personal Website
-  description: "Cem Yusuf Aydoğdu - Personal Website"
+  title: Cem Yusuf Aydogdu - Personal Website
+  description: "Cem Yusuf Aydogdu - Personal Website"
   keywords: [Blog, Portfolio, CV, PaperMod]
   author: Cem
   # author: ["Me", "You"] # multiple authors
@@ -51,7 +51,7 @@ params:
     apple_touch_icon: "apple-touch-icon.png"
 
   label:
-    text: "Cem Yusuf Aydoğdu"
+    text: "Cem Yusuf Aydogdu"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
