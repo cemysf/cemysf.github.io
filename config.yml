@@ -10,8 +10,8 @@ buildExpired: false
 
 # googleAnalytics: UA-123-45
 
+# copyright: false
 disqusShortname: cemysf-1
-
 
 minify:
   disableXML: true
