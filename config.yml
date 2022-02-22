@@ -8,9 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
-
-# copyright: false
+googleAnalytics: UA-123881769-1
 disqusShortname: cemysf-1
 
 minify:
