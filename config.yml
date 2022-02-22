@@ -64,7 +64,7 @@ params:
     imageTitle: my image
     buttons:
       - name: About
-        url: about
+        url: aboutme
       - name: Posts
         url: posts
       - name: Tags
@@ -115,7 +115,7 @@ menu:
   main:
     - identifier: about
       name: about
-      url: /about/
+      url: /aboutme/
       weight: 9
     - identifier: posts
       name: posts

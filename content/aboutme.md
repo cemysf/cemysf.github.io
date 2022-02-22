@@ -3,8 +3,8 @@ title: "About me"
 date: 2022-02-19T22:10:49+01:00
 layout: "about" # is necessary
 author: " "
-description: ""
-canonicalURL: "https://canonical.url/to/page"
+# description: ""
+# canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 disableHLJS: false
 hideSummary: false
