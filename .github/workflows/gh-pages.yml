@@ -2,6 +2,9 @@ name: prepare hugo deployment build
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - master  # Set a branch to deploy
 
 jobs:
   deploy:
