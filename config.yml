@@ -1,6 +1,5 @@
 baseURL: "https://cemysf.github.io"
 title: Cem Yusuf Aydogdu | Personal Website
-paginate: 5
 theme: ["hugo-video", "PaperMod"]
 
 enableRobotsTXT: true
@@ -8,7 +7,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123881769-1
 disqusShortname: cemysf-1
 
 minify:
@@ -142,6 +140,9 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+pagination:
+  pagerSize: 5
 
 outputs:
   home:

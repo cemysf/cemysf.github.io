@@ -1,2 +1,2 @@
 #/bin/bash
-hugo server -p 8080 --debug --disableFastRender
+hugo server -p 8080 --disableFastRender
