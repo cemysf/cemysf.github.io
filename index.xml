@@ -9,6 +9,7 @@
       <link>https://cemysf.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 19 Feb 2022 22:10:49 +0100</lastBuildDate><atom:link href="https://cemysf.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A machine vision project: Counting number of burger patties with OpenCV</title>
@@ -16,9 +17,10 @@
       <pubDate>Sat, 19 Feb 2022 22:10:49 +0100</pubDate>
       
       <guid>https://cemysf.github.io/posts/counting-meatball-patties/</guid>
-      <description>This was an interesting project that I&amp;rsquo;ve worked on before. I was wondering how to kickstart my inner blogging motivation for a long time, then I&amp;rsquo;ve remembered this project.
-It was actually a side project given to me during my first working student job. At the same time I was also working on my thesis, hard times.
-Problem Think about the kitchen of a well-known fastfood restaurant chain. There is a camera mounted on top somewhere, directed towards a burger broiler machine.</description>
+      <description>&lt;p&gt;This was an interesting project that I&amp;rsquo;ve worked on before. I was wondering how to kickstart my inner blogging motivation for a long time, then I&amp;rsquo;ve remembered this project.&lt;/p&gt;
+&lt;p&gt;It was actually a side project given to me during my first working student job. At the same time I was also working on my thesis, hard times.&lt;/p&gt;
+&lt;h1 id=&#34;problem&#34;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;Think about the kitchen of a well-known fastfood restaurant chain. There is a camera mounted on top somewhere, directed towards a burger broiler machine. A broiler machine is basically an oven with a conveyor belt. Raw burger patty in, cooked burger patty out.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,9 +29,37 @@ Problem Think about the kitchen of a well-known fastfood restaurant chain. There
       <pubDate>Sat, 19 Feb 2022 22:10:49 +0100</pubDate>
       
       <guid>https://cemysf.github.io/aboutme/</guid>
-      <description>Hello, my name is Cem. I am a full-stack web developer, living and working in Munich at the moment 🍻
- Check out the repo of this website here
- For more info check out my profiles:             The original content of this website is licensed under Creative Commons Attribution 4.0 International License, unless otherwise noted.</description>
+      <description>&lt;p&gt;Hello, my name is Cem. I am a full-stack web developer, living and working in Munich at the moment 🍻&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Check out the repo of this website &lt;a href=&#34;https://github.com/cemysf/cemysf.github.io&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;For more info check out my profiles:
+&lt;div class=&#34;social-icons&#34;&gt;
+    &lt;a class=&#34;social-icon-link&#34; href=&#34;https://github.com/cemysf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;Github&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
+    stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+    &lt;path
+        d=&#34;M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22&#34;&gt;
+    &lt;/path&gt;
+&lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;a class=&#34;social-icon-link&#34; href=&#34;https://www.linkedin.com/in/cem-yusuf-aydogdu/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;Linkedin&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
+    stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+    &lt;path d=&#34;M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z&#34;&gt;&lt;/path&gt;
+    &lt;rect x=&#34;2&#34; y=&#34;9&#34; width=&#34;4&#34; height=&#34;12&#34;&gt;&lt;/rect&gt;
+    &lt;circle cx=&#34;4&#34; cy=&#34;4&#34; r=&#34;2&#34;&gt;&lt;/circle&gt;
+&lt;/svg&gt;
+    &lt;/a&gt;
+    &lt;a class=&#34;social-icon-link&#34; href=&#34;https://stackoverflow.com/users/3525373/cya&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;Stackoverflow&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
+    stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;
+    &lt;path
+        d=&#34;M2.913 16.041v6.848h17.599v-6.848M7.16 18.696h8.925M7.65 13.937l8.675 1.8M9.214 9.124l8.058 3.758M12.086 4.65l6.849 5.66M15.774 1.111l5.313 7.162&#34; /&gt;
+&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
     </item>
     
     
