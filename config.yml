@@ -96,7 +96,7 @@ params:
 
   editPost:
     URL: "https://github.com/cemysf/cemysf.github.io/tree/master/content"
-    Text: "Suggest Changes" # edit text
+    Text: "See source" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
